@@ -1,0 +1,10 @@
+D:\my-projects\rust-learning\rusty-journal\target\release\deps\structopt_derive-c84aab9f287e2464.dll: C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\lib.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\attrs.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\parse.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\spanned.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\ty.rs
+
+D:\my-projects\rust-learning\rusty-journal\target\release\deps\structopt_derive-c84aab9f287e2464.d: C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\lib.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\attrs.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\parse.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\spanned.rs C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\lib.rs:
+C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\attrs.rs:
+C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\doc_comments.rs:
+C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\parse.rs:
+C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\spanned.rs:
+C:\Users\willd\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\ty.rs:
